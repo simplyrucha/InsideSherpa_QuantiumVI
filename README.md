@@ -1,4 +1,4 @@
-# InsideSherpa_QuantiumVirtualInternship
+# InsideSherpa_Quantium_Virtual_Internship
 Submissions for quantium virtual internship program
 
 The project is a compilation of analytics done for potato chips retail. It consists of two parts: 
