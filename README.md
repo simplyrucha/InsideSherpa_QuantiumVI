@@ -16,4 +16,3 @@ Based on the recommendations of customer purchase behavior analysis, 3 stores we
 
 The project provided a good oppurtunity to work on Plotly graphing libraries, but that my notebook became quiet heavy for github to render. The ".ipynb" notebooks have been attached in a compressed zip file. The datasets have also been enclosed in a compressed zip file. 
 
-https://htmlpreview.github.io/?https://github.com/simplyrucha/InsideSherpa_QuantiumVI/blob/master/Chips.html
