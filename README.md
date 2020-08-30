@@ -21,3 +21,5 @@ https://nbviewer.jupyter.org/github/simplyrucha/InsideSherpa_QuantiumVI/blob/mas
 https://nbviewer.jupyter.org/github/simplyrucha/InsideSherpa_QuantiumVI/blob/master/Chips_Part2.ipynb
 
 (Click ctrl+left to open in new tab)
+
+The datasets are enclosed in the zip file. 
