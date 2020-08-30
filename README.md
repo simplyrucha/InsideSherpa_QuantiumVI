@@ -1,2 +1,2 @@
-# InsideSherpa_QuantiumVI
+# InsideSherpa_QuantiumVirtualInternship
 Submissions for quantium virtual internship program
