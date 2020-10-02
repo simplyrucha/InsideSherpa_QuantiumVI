@@ -14,7 +14,7 @@ Based on the recommendations of customer purchase behavior analysis, 3 stores we
 
 <b>Technical notes:</b>
 
-The project provided a good oppurtunity to work on Plotly graphing libraries. But the plots are not rendered by github. Hence the below URL's will open the project in nbviewer. 
+The project provided a good opportunity to work and learn Plotly graphing libraries. Alas, the plots are not rendered by github. Hence please access the below given URL's to open the project in nbviewer. 
 
 https://nbviewer.jupyter.org/github/simplyrucha/InsideSherpa_QuantiumVI/blob/master/Chips_Part1.ipynb
 
