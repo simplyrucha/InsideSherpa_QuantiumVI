@@ -28,6 +28,6 @@ The datasets provided for this project are:
 <b>Additional notes:</b>
 This prjected presented a good opportunity to learn Plotly graphing libraries. Alas, the plots are not rendered by github. The following URL opens the project notebook file in nbviewer. 
 
-https://nbviewer.jupyter.org/github/simplyrucha/Potato-Chips-Project/blob/master/Potato_Chips_Retail_Store_Project.ipynb
+https://nbviewer.org/github/simplyrucha/Potato-Chips-Project/blob/master/Potato_Chips_Retail_Store_Project.ipynb
 
 (Click ctrl+left to open in new tab)
